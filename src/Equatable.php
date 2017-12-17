@@ -12,7 +12,7 @@
  * @license MIT
  */
 
-namespace Spaark\Base\Common;
+namespace Spaark\Base;
 
 /**
  * Classes implementing this class can compare themselves to another to

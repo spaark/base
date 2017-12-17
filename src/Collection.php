@@ -12,7 +12,7 @@
  * @license MIT
  */
 
-namespace Spaark\Base\Collection;
+namespace Spaark\Base;
 
 use ArrayAccess;
 use IteratorAggregate;
