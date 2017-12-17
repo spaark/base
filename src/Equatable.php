@@ -17,8 +17,6 @@ namespace Spaark\Base\Common;
 /**
  * Classes implementing this class can compare themselves to another to
  * determine equality
- *
- * @generic Type
  */
 interface Equatable
 {

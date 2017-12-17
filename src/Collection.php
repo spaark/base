@@ -20,8 +20,6 @@ use Countable;
 
 /**
  * Represents an abstract collection of items
- *
- * @generic ValueType
  */
 interface Collection extends ArrayAccess, IteratorAggregate, Countable
 {
