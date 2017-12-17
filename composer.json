@@ -1,0 +1,31 @@
+{
+    "name": "spaark/base",
+    "license": "MIT",
+    "type": "library",
+    "description": "Base Interfaces",
+    "keywords": ["Spaark", "PHP", "library", "framework"],
+    "homepage": "https://www.spaark.io/",
+    "authors": [
+        {
+            "name": "Emily Shepherd",
+            "email": "emily@emilyshepherd.me",
+            "homepage": "https://emilyshepherd.me",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/spaark/base/issues",
+        "source": "https://github.com/spaark/base"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spaark\\Base\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.1"
+    },
+    "config": {
+        "bin-dir": "bin"
+    }
+}
